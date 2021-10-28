@@ -20,7 +20,7 @@ In this repo
     * wind_speed.png: Wind Speed vs. Latitude graph from Part I
 
 * VacationPy folder 
-    * VacationPy.ipynb
+    * VacationPy.ipynb: code for Part II
 
 * WeatherPy folder 
-    * WeatherPy.ipynb
+    * WeatherPy.ipynb: code and observations for Part I
