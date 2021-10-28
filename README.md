@@ -17,6 +17,14 @@ In this repo
     * heatmap_with_hotels.png from Part II
     * humidity.png: Humidity vs. Latitude graph from Part I
     * max_temp.png: Maximum Temperature vs. Latitude graph from Part I
+    * north_cloudiness.png: Cloudiness vs. Latitude, Northern Hemisphere graph from Part I
+    * north_humidity.png: Humidity vs. Latitude, Northern Hemisphere graph from Part I
+    * north_max_temp.png: Maximum Temperature, Northern Hemisphere vs. Latitude graph from Part I
+    * north_wind_speed.png: Wind Speed vs. Latitude, Northern Hemisphere graph from Part I
+    * south_cloudiness.png: Cloudiness vs. Latitude, Southern Hemisphere graph from Part I
+    * south_humidity.png: Humidity vs. Latitude, Southern Hemisphere graph from Part I
+    * south_max_temp.png: Maximum Temperature, Southern Hemisphere vs. Latitude graph from Part I
+    * south_wind_speed.png: Wind Speed vs. Latitude, Southern Hemisphere graph from Part I
     * wind_speed.png: Wind Speed vs. Latitude graph from Part I
 
 * VacationPy folder 
